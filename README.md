@@ -1,6 +1,5 @@
 # poke-git
 ___
-
 ```I wanna be the very best,
 Like no one ever was.
 To build them is my real test,
@@ -29,6 +28,6 @@ To claim my rightful place
 Come with me, the time is right
 There's no better team
 Arm in arm we'll win the fight
-It's always been our dream```
-
+It's always been our dream
+```
 ___
