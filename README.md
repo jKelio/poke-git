@@ -1,5 +1,4 @@
 # poke-git
-___
 ```I wanna be the very best,
 Like no one ever was.
 To build them is my real test,
@@ -30,4 +29,3 @@ There's no better team
 Arm in arm we'll win the fight
 It's always been our dream
 ```
-___
